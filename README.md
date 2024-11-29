@@ -56,7 +56,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Feito com 💖 José Santana de Jesus 👋 [Entre na nossa comunidade!](laudierst.tk)
 # api-stoque
-# api-store-stylestop
-# api-store-stylestop
-# api-store-stylestop
-# api-store-stylestop
